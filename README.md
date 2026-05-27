@@ -4,7 +4,7 @@
 
 ## 演示视频
 
-https://github.com/user-attachments/assets/xxx
+<video src="demo.mp4" controls width="600"></video>
 
 ## 项目简介
 
