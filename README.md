@@ -4,9 +4,7 @@
 
 ## 演示视频
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+![演示视频](demo.mp4)
 
 ## 项目简介
 
